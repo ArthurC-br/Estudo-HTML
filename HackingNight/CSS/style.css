@@ -1,0 +1,49 @@
+body{
+		background-image: url('https://free4kwallpapers.com/uploads/originals/2020/04/05/anonymous-wallpaper.jpg');
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		background-size: cover;
+	}
+	
+	.nav justify-content-center: {
+		background-image: url('https://mosaicosmarinella.com.br/image/cache/catalog/Azulejo%203,5mm/azulejo_colorido_preto-600x548.jpg');
+	}
+
+	.container {
+  		margin: 20px;
+  		width: auto;
+	}
+	.topnav {
+		align-self: center;
+  		overflow: hidden;
+  		background-color: #111;
+	}
+/* Navbar links */
+	.topnav a {
+		color: #f2f2f2;
+		text-align: center;
+		padding: 14px 16px;
+		text-decoration: none;
+		font-size: 20px;
+	}
+	.topnav a:hover {
+	  	background-color: #ddd;
+		color: black;
+	}
+	.card-deck{
+		width: 800px;
+		height: 400px;
+	}
+	.card{
+		background-color: rgba(20,20,20, 0.7);
+
+	}
+
+	h5{
+		color: white;
+		
+	}
+	p{
+		color: white;
+	}
+
